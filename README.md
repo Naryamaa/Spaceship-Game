@@ -1,1 +1,1 @@
-hancurr
+A simple spaceship game
